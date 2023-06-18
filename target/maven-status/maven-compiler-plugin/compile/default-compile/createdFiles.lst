@@ -1,0 +1,5 @@
+fr\codeonce\kafka\config\KafkaTopicConfig.class
+fr\codeonce\kafka\controller\KafkaProducerController.class
+fr\codeonce\kafka\config\KafkaProducer.class
+fr\codeonce\kafka\KafkaApplication.class
+fr\codeonce\kafka\config\KafkaConsumer.class
